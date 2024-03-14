@@ -33,7 +33,7 @@ To get started with the project:
     pip install -r requirements.txt
     ```
 
-3. Download the json file for kaggle api.
+3. dataset:https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 4. Set up Kaggle API credentials as environment variables.
 
